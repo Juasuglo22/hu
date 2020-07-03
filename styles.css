@@ -1,0 +1,26 @@
+
+    .Rash {
+        color: forestgreen;
+        font-size: 30px;
+        text-align: right;
+        
+        
+    }   
+    .msg {
+        background-color: darkblue;
+        color: white;
+        padding: 5px;
+        border-radius: 10px;
+        border: 0px;
+        margin: 5px;
+        
+        
+
+    }    
+    
+
+
+ img {
+    width: 70%
+
+ }
